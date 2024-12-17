@@ -1,0 +1,19 @@
+							ESCUELA POLITÉCNICA NACIONAL
+						     ESCUELA DE FORMACIÓN DE TECNÓLOGOS
+
+              						      Analisis de Datos
+							 	(TDSD314)
+
+
+ASIGNATURA:	Analisis de Datos
+PROFESOR:	Ing. Juan Pablo Zaldumbide
+PERÍODO ACADÉMICO:	2024-B
+TÍTULO:
+Deber NLTK
+ 
+ESTUDIANTE:
+	Josué Eduard Guerra Lovato
+	
+ENLACE del Google Colab
+https://colab.research.google.com/drive/1w20wICSkN0pcSn8sGgZrs-r8JlHukx8N?usp=sharing
+
